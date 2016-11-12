@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Easy KKU</string>
     <string name="SignIn">Sign In</string>
-    <string name="SignUp">Sign Up</string>
+    <string name="SignUp">สมัครสมาชิก</string>
 </resources>
